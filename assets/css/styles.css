@@ -2,6 +2,7 @@
   --primary: darkslateblue;
   --body-background: aliceblue;
   --navtext: white;
+  --navtext-hover: green;
 }
 
 body {
@@ -19,25 +20,40 @@ h2 {
 }
 
 header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   background-color: var(--primary);
   height: 50px;
   color: var(--navtext);
 }
 
+header img {
+  height: 40px;
+  width: auto;
+  vertical-align: center;
+}
+
+header .title-text {
+  display: inline;
+  font-family: Pacifico, cursive;
+  color: #c7cfb7;
+  vertical-align: center;
+  font-size: 1.25em;
+}
+
 nav {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  gap: 20px;
+  text-align: right;
 }
 
 nav a {
-  align-self: center;
+  color: var(--navtext);
+  text-decoration: none;
+  padding: 0 10px;
 }
 
-nav div {
-  color: white;
-  text-decoration: none;
+nav a:hover {
+  color: var(--navtext-hover);
 }
 
 footer {
@@ -47,13 +63,4 @@ footer {
   background-color: var(--primary);
   height: 100px;
   color: var(--navtext);
-}
-
-footer aside {
-}
-
-footer section {
-  display: flex;
-  justify-content: space-between;
-  gap: 10px;
 }
