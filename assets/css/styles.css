@@ -1,0 +1,59 @@
+:root {
+  --primary: darkslateblue;
+  --body-background: aliceblue;
+  --navtext: white;
+}
+
+body {
+  background-color: var(--body-background);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 300%;
+}
+
+h2 {
+  font-size: 200%;
+}
+
+header {
+  background-color: var(--primary);
+  height: 50px;
+  color: var(--navtext);
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 20px;
+}
+
+nav a {
+  align-self: center;
+}
+
+nav div {
+  color: white;
+  text-decoration: none;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--primary);
+  height: 100px;
+  color: var(--navtext);
+}
+
+footer aside {
+}
+
+footer section {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
