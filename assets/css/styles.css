@@ -88,14 +88,43 @@ main section div {
   grid-gap: 1em;
   grid-auto-rows: minmax(200px, auto);
   min-width: 320px;
+  padding: 5px;
 }
 
 .grid-card {
-  border: 1px solid red;
+  background-color: var(--primary);
+}
+
+.grid-card:hover {
 }
 
 .main-card {
   grid-column: 1 / 3;
+}
+
+#project-1 {
+  background-image: url("../images/code-screen.jpg");
+  background-size: cover;
+}
+
+#project-2 {
+  background-image: url("../images/to-do-list.jpg");
+  background-size: cover;
+}
+
+#project-3 {
+  background-image: url("../images/weather-app.jpg");
+  background-size: cover;
+}
+
+#project-4 {
+  background-image: url("../images/blog.jpg");
+  background-size: cover;
+}
+
+#project-5 {
+  background-image: url("../images/holiday-db.jpg");
+  background-size: cover;
 }
 
 footer {
