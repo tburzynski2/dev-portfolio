@@ -141,3 +141,9 @@ footer {
   height: 100px;
   color: var(--navtext);
 }
+
+@media screen and (max-width: 768px) {
+  main section div {
+    flex: 100%;
+  }
+}
