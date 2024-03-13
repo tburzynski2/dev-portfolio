@@ -11,12 +11,18 @@ I am a passionate web developer with a love for creating websites with functiona
 Here are some of the projects featured on my portfolio:
 
 - Project 1: Code refactoring - Consolidating CSS selectors & improving website accessibility.
+- Project 2: To-Do List
+- Project 3: Weather App
+- Project 4: Blog Website
+- Project 5: Holiday Movie Database
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
+
+## Screenshots
 
 ## Image Credits
 
@@ -25,6 +31,12 @@ Here are some of the projects featured on my portfolio:
 - [Photo by Brian McGowan](https://unsplash.com/photos/blue-pink-and-yellow-abstract-painting-7kU-BMYARQs) on Unsplash
 - [Photo by Nick Morrison](https://unsplash.com/photos/macbook-pro-near-white-open-book-FHnnjk1Yj7Y) on Unsplash
 - [Photo by Sincerely Media](https://unsplash.com/photos/assorted-color-baubles-on-white-surface-EuZuJrYJbmg) on Unsplash
+
+## Font Credits
+
+The following fonts are used in this project and are provided by Google Fonts:
+
+- [Pacifico](https://fonts.google.com/specimen/Pacifico) by Vernon Adams, Jacques Le Bailly, Botjo Nikoltchev, Ani Petrova
 
 ## Contact Me
 
