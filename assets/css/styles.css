@@ -1,8 +1,8 @@
 :root {
-  --primary: darkslateblue;
+  --primary: #383e56;
   --body-background: aliceblue;
   --navtext: white;
-  --navtext-hover: green;
+  --accent: #cfc09d;
 }
 
 body {
@@ -13,6 +13,7 @@ body {
 
 h1 {
   font-size: 300%;
+  color: var(--primary);
 }
 
 h2 {
@@ -46,10 +47,13 @@ header img {
 
 header .title-text {
   display: inline;
-  font-family: Pacifico, cursive;
-  color: #c7cfb7;
   vertical-align: center;
   font-size: 1.25em;
+  color: #c7cfb7;
+}
+
+.title-text {
+  font-family: Pacifico, cursive;
 }
 
 nav {
@@ -63,7 +67,15 @@ nav a {
 }
 
 nav a:hover {
-  color: var(--navtext-hover);
+  color: var(--accent);
+}
+
+.atf {
+  height: 300px;
+}
+
+.atf img {
+  margin: 0 auto;
 }
 
 main section {
@@ -98,7 +110,7 @@ main section div {
 }
 
 .grid-card:hover {
-  border: 5px solid limegreen;
+  border: 5px solid var(--accent);
 }
 
 .main-card {
