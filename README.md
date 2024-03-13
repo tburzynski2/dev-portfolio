@@ -20,11 +20,11 @@ Here are some of the projects featured on my portfolio:
 
 ## Image Credits
 
-[Photo by Florian Olivo](https://unsplash.com/photos/lines-of-html-codes-4hbJ-eymZ1o) on Unsplash
-[Photo by Glenn Carstens-Peters](https://unsplash.com/photos/person-writing-bucket-list-on-book-RLw-UC03Gwc) on Unsplash
-[Photo by Brian McGowan](https://unsplash.com/photos/blue-pink-and-yellow-abstract-painting-7kU-BMYARQs) on Unsplash
-[Photo by Nick Morrison](https://unsplash.com/photos/macbook-pro-near-white-open-book-FHnnjk1Yj7Y) on Unsplash
-[Photo by Sincerely Media](https://unsplash.com/photos/assorted-color-baubles-on-white-surface-EuZuJrYJbmg) on Unsplash
+- [Photo by Florian Olivo](https://unsplash.com/photos/lines-of-html-codes-4hbJ-eymZ1o) on Unsplash
+- [Photo by Glenn Carstens-Peters](https://unsplash.com/photos/person-writing-bucket-list-on-book-RLw-UC03Gwc) on Unsplash
+- [Photo by Brian McGowan](https://unsplash.com/photos/blue-pink-and-yellow-abstract-painting-7kU-BMYARQs) on Unsplash
+- [Photo by Nick Morrison](https://unsplash.com/photos/macbook-pro-near-white-open-book-FHnnjk1Yj7Y) on Unsplash
+- [Photo by Sincerely Media](https://unsplash.com/photos/assorted-color-baubles-on-white-surface-EuZuJrYJbmg) on Unsplash
 
 ## Contact Me
 
