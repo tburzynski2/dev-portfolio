@@ -44,6 +44,7 @@ Here are some of the projects featured on my portfolio:
 The following fonts are used in this project and are provided by Google Fonts:
 
 - [Pacifico](https://fonts.google.com/specimen/Pacifico) by Vernon Adams, Jacques Le Bailly, Botjo Nikoltchev, Ani Petrova
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly
 
 ## Contact Me
 
