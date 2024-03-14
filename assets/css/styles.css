@@ -1,20 +1,26 @@
 /* ---------- Variables ---------- */
 :root {
   --primary: #383e56;
-  --body-background: white;
-  --navtext: white;
+  --white-text: white;
   --accent: #ff7f50;
+  --primary-font: "Montserrat", sans-serif;
 }
 
 /* ---------- Global styles ---------- */
 body {
-  background-color: var(--body-background);
-  font-family: "Montserrat", sans-serif;
+  background-color: white;
+  font-family: var(--primary-font);
 }
 
 h1 {
   font-size: 300%;
   color: var(--primary);
+}
+
+h1 span {
+  font-size: 50%;
+  font-family: var(--primary-font);
+  margin-left: 20%;
 }
 
 h2 {
@@ -39,7 +45,7 @@ header {
   align-items: center;
   background-color: var(--primary);
   height: 50px;
-  color: var(--navtext);
+  color: var(--white-text);
 }
 
 header img {
@@ -64,7 +70,7 @@ nav {
 }
 
 nav a {
-  color: var(--navtext);
+  color: var(--white-text);
   text-decoration: none;
   padding: 0 10px;
 }
@@ -75,7 +81,7 @@ nav a:hover {
 
 /* ---------- Above-the-fold ---------- */
 .atf {
-  height: 300px;
+  height: 360px;
 }
 
 .atf img {
@@ -114,8 +120,12 @@ main section div {
   min-width: 320px;
 }
 
+.project-grid a {
+  background-size: cover;
+}
+
 .grid-card {
-  background-color: var(--primary);
+  background-color: var(--accent);
 }
 
 .grid-card:hover {
@@ -128,34 +138,29 @@ main section div {
 
 .grid-card div {
   background-color: var(--primary);
-  color: var(--navtext);
+  color: var(--white-text);
   display: inline-block;
   padding: 5px;
 }
 
 #project-1 {
   background-image: url("../images/code-screen.jpg");
-  background-size: cover;
 }
 
 #project-2 {
   background-image: url("../images/to-do-list.jpg");
-  background-size: cover;
 }
 
 #project-3 {
   background-image: url("../images/weather-app.jpg");
-  background-size: cover;
 }
 
 #project-4 {
   background-image: url("../images/blog.jpg");
-  background-size: cover;
 }
 
 #project-5 {
   background-image: url("../images/holiday-db.jpg");
-  background-size: cover;
 }
 
 /* ---------- Footer navigation & contact ---------- */
@@ -166,7 +171,7 @@ footer {
   align-items: center;
   background-color: var(--primary);
   height: 100px;
-  color: var(--navtext);
+  color: var(--white-text);
 }
 
 /* ---------- Media queries ---------- */
