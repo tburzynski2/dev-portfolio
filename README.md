@@ -24,6 +24,14 @@ Here are some of the projects featured on my portfolio:
 
 ## Screenshots
 
+### Desktop
+
+![Tom Burzynski dev portfolio screenshot - desktop](assets/images/screenshots/portfolio-desktop.png "Desktop")
+
+### Mobile
+
+![Tom Burzynski dev portfolio screenshot - mobile](assets/images/screenshots/portfolio-mobile.png "Mobile")
+
 ## Image Credits
 
 - [Photo by Florian Olivo](https://unsplash.com/photos/lines-of-html-codes-4hbJ-eymZ1o) on Unsplash
